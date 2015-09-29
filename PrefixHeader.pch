@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  HHLog
+//
+//  Created by CatchZeng on 15/9/29.
+//  Copyright © 2015年 qingningxiezuo. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "HHProfile.h"
+#import "CocoaLumberjack.h"
+
+#endif
